@@ -85,7 +85,7 @@ const Main = () => {
                </div>
            </div>
            <p className="bottom-info">
-            ChatNova may display inaccurate info, including about people, so double check its responses. Your privacy and Gemini Apps
+            ChatNova may display inaccurate info, including about people, so double check its responses. Your privacy and Chat-Nova Apps
            </p>
 
 
